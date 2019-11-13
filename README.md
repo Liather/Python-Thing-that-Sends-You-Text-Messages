@@ -25,6 +25,3 @@ Here are the steps to get this working:
   Step 2: Open cmd and type 'pip install twilio'
   
   Step 3: Open the 'send_sms.py' file.
-  
-  
-  If you have any questions or something is not working ---Text_me at 07835424025 or email: foggy.galston12@gmail.com---
